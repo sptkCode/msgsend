@@ -1,4 +1,4 @@
-# ronglianyun
+# sendsms
 golang 容联云sdk, 使用的是短信模板1---您的验证码是123456, 请于5分钟内正确输入
 
 # usage:
